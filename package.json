@@ -1,0 +1,12 @@
+{
+  "name": "@sovernut/test-publish-npm",
+  "version": "1.0.0",
+  "description": "For testing publish npm package",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc --project tsconfig.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sovernut",
+  "license": "ISC"
+}
