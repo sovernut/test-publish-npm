@@ -1,6 +1,6 @@
 {
   "name": "@sovernut/test-publish-npm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "For testing publish npm package",
   "main": "index.js",
   "scripts": {
